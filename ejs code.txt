@@ -1,0 +1,16 @@
+<% for (let i = 0; i < blogCount; i++) { %>
+    <div class="blog-container pt-1 ps-2 mb-4">
+        <p>
+            <%= blogList[i] %>
+        </p>
+        <div class="d-inline-flex">
+            <form action="/edit" method="post">
+                <button class="btn button mb-2 p-1" type="submit">Edit</button>
+            </form>
+            
+            <form action="/delete" method="post">
+                <button class="btn button ms-4 mb-2 p-1" type="submit">Delete</button>
+            </form>
+        </div>
+    </div>
+<% } %>
