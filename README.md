@@ -14,7 +14,6 @@ This bad boy was forged with:
 ---
 
 ## 🌐 What This Project Does  
-#rantapp #digitaltherapy #mentalhealthtool
 
 Your digital scream-box. Simple, fast, raw AF.
 
@@ -30,7 +29,6 @@ Your digital scream-box. Simple, fast, raw AF.
 ---
 
 ## 📦 Features  
-#responsivedesign #inplaceediting #minimalui #frontendlove
 
 - Clean, adaptive UI for all screen sizes.  
 - In-place editing that just works.  
@@ -40,7 +38,6 @@ Your digital scream-box. Simple, fast, raw AF.
 ---
 
 ## 🚀 How to Run This Project  
-#runlocally #devsetup #quickstart
 
 Wanna host your own digital therapy sesh? Here’s how:
 
@@ -56,16 +53,14 @@ Then just hit [http://localhost:3000](http://localhost:3000) in your browser. Ra
 ---
 
 ## ⚠️ Important Note  
-#inmemorystorage #devmode #temporarydata
 
 All rants are stored in RAM — meaning, if you shut down the server, **poof**, they’re gone.  
-This shit’s for demos and local venting only, not your life's emotional archive.
+This shit’s for demos and local venting only, not your life's emotional archive.  
 But hey, as a plus point, you can vent and no one will know a thing!
 
 ---
 
 ## 🌍 Deployment (Take It Live)  
-#deploytorender #render #productionready
 
 - `start` script in `package.json` is all set.  
 - `process.env.PORT || 3000` makes it play nice with Render.  
